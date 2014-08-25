@@ -7,9 +7,10 @@ namespace CNNTools
 {
     public class OAuth : OAuthImpl
     {
-        public string GetUrlCNN()
+        //FIXME: Data dummy
+        public string GetUrlCNN(string path)
         {
-            return "URL CNN";
+            return path;
         }
     }
 }

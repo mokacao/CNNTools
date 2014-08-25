@@ -5,8 +5,8 @@ using System.Text;
 
 namespace CNNTools
 {
-    interface OAuthImpl
+    public interface OAuthImpl
     {
-        string GetUrlCNN();
+        string GetUrlCNN(string path);
     }
 }
