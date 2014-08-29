@@ -2,3 +2,8 @@ c:\users\hp 450\documents\visual studio 2010\Projects\CNNTools\CNNTools\bin\Rele
 c:\users\hp 450\documents\visual studio 2010\Projects\CNNTools\CNNTools\bin\Release\CNNTools.pdb
 c:\users\hp 450\documents\visual studio 2010\Projects\CNNTools\CNNTools\obj\Release\CNNTools.dll
 c:\users\hp 450\documents\visual studio 2010\Projects\CNNTools\CNNTools\obj\Release\CNNTools.pdb
+C:\Users\HP 450\Documents\GitHub\CNNTools\CNNTools\bin\Release\CNNTools.dll
+C:\Users\HP 450\Documents\GitHub\CNNTools\CNNTools\bin\Release\CNNTools.pdb
+C:\Users\HP 450\Documents\GitHub\CNNTools\CNNTools\obj\Release\CNNTools.dll
+C:\Users\HP 450\Documents\GitHub\CNNTools\CNNTools\obj\Release\CNNTools.pdb
+C:\Users\HP 450\Documents\GitHub\CNNTools\CNNTools\obj\Release\CNNTools.csprojResolveAssemblyReference.cache
